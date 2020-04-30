@@ -1,3 +1,4 @@
+//哈夫曼树
 #include<stdio.h>
 #define max 1000
 #define maxsymbs 30		/*最多30个叶子结点*/
